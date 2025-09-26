@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  max-width: 1380px;
   margin: 0 auto;
   padding: 2rem;
   /* text-align: center; */
@@ -40,3 +40,26 @@
 .read-the-docs {
   color: #888;
 }
+
+/* .ccard{
+  border: 2px solid saddlebrown;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: auto;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 10px;
+}
+.img{
+  height: 40px;
+  width: 60px;
+}
+.con-card{
+  display: flex;
+  flex-wrap: wrap;
+
+} */
